@@ -1,0 +1,10 @@
+UPDATE /employees/{id}
+[
+  {
+    "job": "designer"
+  }
+]
+
+
+DELETE /employees/{id}
+// deletes customer with that id
